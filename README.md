@@ -1,6 +1,7 @@
 -----------
 # Paid version
 - Currently the free version isn’t working we have another paid version that actually work , DM Me on telegram to buy it :)
+- PerimeterX added as well. ( its updated and working till now )
 - contact me by : [telegram](https://contact-mano.vercel.app/)
 - Free trials provided.
 # 🚀 Features : 
