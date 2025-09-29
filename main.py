@@ -6,6 +6,7 @@ from tls_client.exceptions import TLSClientExeption
 
 import base64
 import os
+import platform
 import time
 import random
 import string
@@ -149,7 +150,7 @@ def set_cmd_window_title(GENNED, LOCKED):
       ctypes.windll.kernel32.SetConsoleTitleW(title)
   
     else:
-      return " NOT MF WINDOWS
+      return " NOT MF WINDOWS "
 
 set_cmd_window_title(GENNED, LOCKED)
 
